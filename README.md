@@ -38,7 +38,7 @@
   Sustainable agriculture web platform (Django, PowerBI, MongoDB) with **99% accurate AI chatbot**, ML crop recommendations, and climate-adaptive solutions.  
 
 - **Terrorist Analysis & Prediction System 🔍**  
-  ML-based dashboard (Random Forest, Django, NoSQL) predicting terrorist group activities with **95% accuracy**.  
+  ML-based dashboard (Random Forest, Django,SQL) predicting terrorist group activities with **95% accuracy**.  
 
 ---
 
