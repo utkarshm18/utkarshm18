@@ -102,8 +102,6 @@ Presented at the International Conference on Engineering Trends in Education Sys
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 - **NPTEL Certification in Software Engineering (IIT Kharagpur)**
 - **GenAI Powered Data Analytics Job Simulation** – [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_8WWHgnxNcePjPANKd_1751739314693_completion_certificate.pdf)
 - **Data Analytics Job Simulation** – [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_8WWHgnxNcePjPANKd_1750182857648_completion_certificate.pdf)
