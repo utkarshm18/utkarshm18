@@ -27,7 +27,6 @@
 
 ### 👁️ Computer Vision
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Concepts:** Image Classification • Object Detection
 
@@ -97,7 +96,7 @@ Presented at the International Conference on Engineering Trends in Education Sys
 
 🏅 **Rank 72** – Smart BU Hackathon 2024 (University-level Smart India Hackathon selection track)
 
-🏐 **Represented Bennett University in the All India Inter University Volleyball Championship (3 Times)** 
+🏐 Represented Bennett University in the All India Inter University Volleyball Championship **(3 Times)** 
 
 ---
 
