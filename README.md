@@ -84,9 +84,7 @@ Python • Random Forest • Django • MongoDB • Power BI
 
 ## 📖 Research Publication
 
-📄 An AI-Driven Approach for Bird Species Conservation
-
-Presented at the International Conference on Engineering Trends in Education Systems and Sustainability (ICETESS 2025), Jaipur. 
+- **An AI-Driven Approach for Bird Species Conservation** – Presented at the International Conference on Engineering Trends in Education Systems and Sustainability (ICETESS 2025), Jaipur Engineering College and Research Centre, Jaipur. – [View Certificate](https://drive.google.com/file/d/1sGfzj1t6EOfPN0HNLCaCKCE4FY4e5QZ8/view?usp=drivesdk)
 
 ---
 
